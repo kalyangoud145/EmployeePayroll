@@ -11,3 +11,5 @@ VALUES
 (
     'Terisa',60000.00,'2018-01-03','F','HYD','9010463323','Marketing',25000.00,50000.00
 );
+select * from Employee_Payroll
+where Name = 'terisa'
